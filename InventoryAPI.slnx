@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="InventoryAPI/InventoryAPI.csproj" />
+  <Project Path="InventoryWinForms/InventoryWinForms.csproj" />
+</Solution>
